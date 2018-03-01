@@ -2,7 +2,7 @@
 int main()
 {
 int a,b,temp;
-scanf("%d%d%d",&a,&b);
+scanf("%d%d",&a,&b);
 temp=a;
 a=b;
 b=temp;
